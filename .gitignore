@@ -1,0 +1,3 @@
+*.bak
+layouts/*
+!layouts/default.kdl
