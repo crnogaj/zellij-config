@@ -1,3 +1,4 @@
 *.bak
 layouts/*
 !layouts/default.kdl
+!layouts/dev.kdl
