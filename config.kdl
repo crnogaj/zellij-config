@@ -8,8 +8,8 @@ keybinds clear-defaults=true {
         bind "Ctrl j" { Write 27 91 66; }
         bind "Ctrl h" { Write 27 91 68; }
         bind "Ctrl l" { Write 27 91 67; }
-        bind "Ctrl w" { Write 27 102; }
-        bind "Ctrl b" { Write 27 98; }
+        bind "Alt w" { Write 27 102; }
+       // bind "Alt b" { Write 27 98; }
     }
     locked {
         bind "Ctrl g" { SwitchToMode "normal"; }
